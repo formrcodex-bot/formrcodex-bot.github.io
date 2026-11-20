@@ -1,0 +1,19 @@
+:root {
+  color-scheme: light dark;
+  font: 1rem/1.75 system-ui, sans-serif;
+}
+main {
+  max-width: 44rem;
+  margin: 4rem auto;
+  padding: 0 1.5rem;
+}
+h1, h2 {
+  line-height: 1.3;
+}
+h2 {
+  margin-top: 2rem;
+  font-size: 1.2rem;
+}
+a {
+  text-underline-offset: .2em;
+}
